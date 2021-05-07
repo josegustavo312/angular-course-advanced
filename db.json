@@ -1,0 +1,124 @@
+{
+  "filmes": [
+    {
+      "titulo": "MIB: Homens de Preto",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "1997-07-11T03:00:00.000Z",
+      "descricao": "Um policial se junta a uma organização secreta que policia e monitora as interações extraterrestres na Terra.",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt0119654/",
+      "genero": "Ação",
+      "id": 1
+    },
+    {
+      "titulo": "MIB: Homens de Preto II ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2012-07-19T03:00:00.000Z",
+      "descricao": "O Agente J é enviado para encontrar o Agente K e restaurar sua memória após o reaparecimento de um caso do passado de K.",
+      "nota": 6.2,
+      "urlIMDb": "https://www.imdb.com/title/tt0120912",
+      "genero": "Ação",
+      "id": 2
+    },
+    {
+      "titulo": "MIB: Homens de Preto III",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2012-05-25T03:00:00.000Z",
+      "descricao": "O Agente J viaja no tempo para os primeiros dias de M.I.B. em 1969 para impedir um alienígena de assassinar seu amigo Agente K e mudar a história.",
+      "nota": 6.8,
+      "urlIMDb": "https://www.imdb.com/title/tt1409024/",
+      "genero": "Ação",
+      "id": 3
+    },
+    {
+      "titulo": "MIB: Homens de Preto - Internacional",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-06-13T03:00:00.000Z",
+      "descricao": "Os Homens de Preto sempre protegeram a Terra da escória do universo. Nesta nova aventura, eles enfrentam sua maior ameaça até o momento: uma toupeira na organização Men in Black.",
+      "nota": 5.6,
+      "urlIMDb": "https://www.imdb.com/title/tt2283336/",
+      "genero": "Ação",
+      "id": 4
+    },
+    {
+      "titulo": "Coringa",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-10-03T03:00:00.000Z",
+      "descricao": "Em Gotham City, o comediante Arthur Fleck, com problemas mentais, é desconsiderado e maltratado pela sociedade. Ele então embarca em uma espiral descendente de revolução e crime sangrento. Esse caminho o coloca frente a frente com seu alter ego: o Coringa.",
+      "nota": 8.7,
+      "urlIMDb": "https://www.imdb.com/title/tt7286456/",
+      "genero": "Drama",
+      "id": 5
+    },
+    {
+      "titulo": "Vingadores: Ultimato",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-04-25T03:00:00.000Z",
+      "descricao": "Depois dos acontecimentos devastadores de Vingadores: Guerra Infinita (2018), o universo está em ruínas. Com a ajuda dos aliados restantes, os Vingadores se reúnem mais uma vez para reverter as ações de Thanos e restaurar o equilíbrio do universo.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt4154796/",
+      "genero": "Aventura",
+      "id": 6
+    },
+    {
+      "titulo": "Capitã Marvel",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-03-07T03:00:00.000Z",
+      "descricao": "Carol Danvers se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt4154664/",
+      "genero": "Ação",
+      "id": 7
+    },
+    {
+      "titulo": "John Wick 3: Parabellum",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-05-16T03:00:00.000Z",
+      "descricao": "John Wick está fugindo depois de matar um membro da guilda internacional de assassinos e, com um preço de US $ 14 milhões em sua cabeça, ele é o alvo de homens e mulheres assassinos em todos os lugares.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt6146586/",
+      "genero": "Ação",
+      "id": 9
+    },
+    {
+      "titulo": "Star Wars: A Ascensão Skywalker",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Depois que Palpatine retorna misteriosamente, a Resistência enfrenta a Primeira Ordem mais uma vez no capítulo final da saga Skywalker.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
+      "genero": "Aventura",
+      "id": 11
+    },
+    {
+      "titulo": "Liga da Justiça de Zack Snyder",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-03-18T03:00:00.000Z",
+      "descricao": "Determinado a garantir que o sacrifício final do Superman não foi em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.",
+      "nota": 8.2,
+      "urlIMDb": "https://www.imdb.com/title/tt12361974/?ref_=hm_fanfav_tt_i_1_pd_fp1",
+      "genero": "Ação",
+      "id": 12
+    },
+    {
+      "titulo": "Godzilla vs. Kong",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-03-26T03:00:00.000Z",
+      "descricao": "O épico capítulo seguinte no cinematográfico Monsterverse coloca dois dos maiores ícones da história do cinema um contra o outro - o temível Godzilla e o poderoso Kong - com a humanidade em jogo.",
+      "nota": 6.6,
+      "urlIMDb": "https://www.imdb.com/title/tt5034838/?ref_=hm_tpks_tt_i_2_pd_tp1_cp",
+      "genero": "Ação",
+      "id": 14
+    },
+    {
+      "titulo": "Mortal Kombat",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-05-13T03:00:00.000Z",
+      "descricao": "O lutador de MMA Cole Young procura os maiores campeões da Terra para enfrentar os inimigos de Outworld em uma batalha de alto risco pelo universo.",
+      "nota": 7.1,
+      "urlIMDb": "https://www.imdb.com/title/tt0293429/?ref_=hm_tpks_tt_i_3_pd_tp1_cp",
+      "genero": "Ação",
+      "id": 15
+    }
+  ]
+}

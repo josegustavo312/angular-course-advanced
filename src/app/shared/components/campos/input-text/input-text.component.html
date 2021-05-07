@@ -1,0 +1,24 @@
+<div [formGroup]="formGroup">
+  <mat-form-field class="full-width">
+    <input matInput 
+            [placeholder]="titulo" 
+            [name]="controlName" 
+            [formControlName]="controlName">
+
+    <!--Didático / Elvis Operator = "?"-->
+    <!--Antes-->
+    <!--<mat-error *ngIf="(cadastro.touched || cadastro.dirty) && f.titulo.errors && f.titulo.errors.required">Campo Obrigatório</mat-error>-->
+    <!--Depois-->
+    <!--<mat-error *ngIf="(cadastro.touched || cadastro.dirty) && f.titulo.errors?.required">Campo Obrigatório</mat-error>-->
+
+    <mat-error *ngIf="validacao.hasErrorValidar (formControl, 'required')">
+      Campo Obrigatório
+    </mat-error>
+    <mat-error *ngIf="validacao.hasErrorValidar (formControl, 'minlength')">
+      Campo Precisa ter no Mínimo {{validacao.lengthValidar(formControl, 'minlength')}} Caracteres
+    </mat-error>
+    <mat-error *ngIf="validacao.hasErrorValidar (formControl, 'maxlength')">
+      Campo Pode ter no Máximo {{validacao.lengthValidar(formControl, 'maxlength')}} Caracteres
+    </mat-error>
+  </mat-form-field>
+</div>
