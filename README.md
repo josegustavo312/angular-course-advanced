@@ -1,4 +1,4 @@
-## Técnicas avançadas em Angular 8
+## TÃ©cnicas avanÃ§adas em Angular 8
 
 ###  :desktop_computer: Tela
 
@@ -8,7 +8,7 @@
 
 ----------
 
-### :link: Baixar as dependências
+### :link: Baixar as dependÃªncias
 
 npm install
 
@@ -16,24 +16,24 @@ npm install
 
 ### :shield: JSON Server
 
-Instalação:
+InstalaÃ§Ã£o:
 npm install -g json-server
 
-Execução:
+ExecuÃ§Ã£o:
 json-server --watch db.json
 
-Obs: Se o projeto não possuir o arquivo "db.json" ele é criado automaticamente.
+Obs: Se o projeto nÃ£o possuir o arquivo "db.json" ele Ã© criado automaticamente.
 
 ----------
 
-### :computer: Compilar e Executar o projeto
+### :computer: Servidor de desenvolvimento
 
 Execute npm start para compilar e executar o projeto na porta http://localhost:4200/.
 
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - Angular;
 - Bootstrap;
 - JSON Server;
@@ -44,14 +44,14 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ----------
 
-###  :gear: Função
+###  :gear: FunÃ§Ã£o
 
 - [x] CRUD de Filmes;
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
