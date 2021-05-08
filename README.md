@@ -8,7 +8,7 @@
 
 ----------
 
-### :link: Baixar as dependências
+### :link: Instalar Dependências
 
 npm install
 
@@ -26,7 +26,7 @@ Obs: Se o projeto não possuir o arquivo "db.json" ele é criado automaticamente
 
 ----------
 
-### :computer: Servidor de desenvolvimento
+### :computer: Servidor de Desenvolvimento
 
 Execute npm start para compilar e executar o projeto na porta http://localhost:4200/.
 
@@ -34,8 +34,10 @@ Execute npm start para compilar e executar o projeto na porta http://localhost:4
 
 ### :hammer_and_wrench: Ferramentas
 As seguintes tecnologias foram utilizadas na construção do projeto:
-- Angular;
-- Bootstrap;
+- Angular Material;
+- Biblioteca RxJS;
+- Elvis Operator;
+- Scroll Infinito - Paginação;
 - JSON Server;
 - HTML;
 - CSS;
